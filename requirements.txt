@@ -1,0 +1,7 @@
+# requirements.txt
+
+nextcord
+requests
+python-dotenv
+colorama
+humanfriendly

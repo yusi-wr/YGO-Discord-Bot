@@ -1,0 +1,122 @@
+{
+  "Super-Ticket": {
+    "price": 1500,
+    "amount": 1499,
+    "icon": "https://cdn.discordapp.com/emojis/1124014415805681716.png",
+    "desc": "Super Ticket, through this purpose you can open a technical support ticket, or use it on occasions that require subscription for this purpose"
+  },
+  "Box-randoms": {
+    "price": 4500,
+    "amount": 1499,
+    "icon": "https://cdn.discordapp.com/emojis/599644157417619495.png",
+    "desc": "From this box you get some random points or items, you and your luck, my friend"
+  },
+  "Energy-shield": {
+    "price": 1350,
+    "amount": 1496,
+    "icon": "https://cdn.discordapp.com/emojis/1200296144589312070.png",
+    "desc": "Energy Shield, use it to avoid the size of attackers, and to maintain your health"
+  },
+  "Bottle-scam": {
+    "price": 2500,
+    "amount": 1499,
+    "icon": "https://cdn.discordapp.com/emojis/870898000891875368.png",
+    "desc": "The thing in this bottle reduces your health points by 50"
+  },
+  "Deadly-missile": {
+    "price": 3250,
+    "amount": 1499,
+    "icon": "https://cdn.discordapp.com/emojis/909383512103202837.png",
+    "desc": "Direct this missile towards the target and completely destroy it"
+  },
+  "Rescue-bottle": {
+    "price": 5500,
+    "amount": 1499,
+    "icon": "https://cdn.discordapp.com/emojis/1020333728435818617.png",
+    "desc": "Recover all your own or others' health points"
+  },
+  "Super-sword": {
+    "price": 1600,
+    "amount": 1000,
+    "icon": "https://cdn.discordapp.com/emojis/1044977522414190612.png",
+    "desc": "Target someone this sword, 40 of their health points will be reduced"
+  },
+  "Health-evolution": {
+    "price": 17500,
+    "amount": 1500,
+    "icon": "https://cdn.discordapp.com/emojis/1136606009880739870.png",
+    "desc": "Improves your health level by 20%, and restores health to 100%.."
+  },
+  "Energy-monster": {
+    "price": 13700,
+    "amount": 998,
+    "icon": "https://cdn.discordapp.com/emojis/739020328478572604.png",
+    "desc": "Select a specific member that deals damage equal to 200 point"
+  },
+  "Rare-gold": {
+    "price": 10000,
+    "amount": 1500,
+    "icon": "https://cdn.discordapp.com/emojis/947728044448153611.png",
+    "desc": "Get around 10,000 to 15,000 DP"
+  },
+  "Chocolate-era": {
+    "price": 700,
+    "amount": 1500,
+    "icon": "https://cdn.discordapp.com/emojis/1024746244507185243.png",
+    "desc": "Each chocolate increases HP by only 20 at a time"
+  },
+  "Sushi-plate": {
+    "price": 4750,
+    "amount": 1498,
+    "icon": "https://cdn.discordapp.com/emojis/844793361872584744.png",
+    "desc": "A delicious and delicious dish. Increases health 100%"
+  },
+  "Ash-Blossom-card": {
+    "price": 15700,
+    "amount": 1497,
+    "icon": "https://cdn.discordapp.com/emojis/891582639411171399.png",
+    "desc": "Get item Energy-shield by 4 and all warnings will be deleted from your profile and get 1000 DP + 100 LP"
+  },
+  "Ash-Bombe": {
+    "price": 2750,
+    "amount": 1004,
+    "icon": "https://cdn.discordapp.com/emojis/1167930098733826088.png",
+    "desc": "By activating this bomb, the target takes 60 LP damage"
+  },
+  "Evolution-of-the-bag": {
+    "price": 14000,
+    "amount": 1010,
+    "icon": "https://cdn.discordapp.com/emojis/1154482850180120646.png",
+    "desc": "Each time you use this item, increase your Storage bag level by 1"
+  },
+  "Amulet-Description": {
+    "price": 8600,
+    "amount": 1018,
+    "icon": "https://cdn.discordapp.com/emojis/846999358536417300.png",
+    "desc": "Create a beautiful description on your profile that represents your personality"
+  },
+  "Star-background": {
+    "price": 8910,
+    "amount": 1198,
+    "icon": "https://cdn.discordapp.com/emojis/878504251238785064.png",
+    "desc": "Add a special and distinctive photo to your profile."
+  },
+  "Blue-flame-dragon": {
+    "price": 11900,
+    "amount": 1997,
+    "icon": "https://cdn.discordapp.com/emojis/715584726127083633.png",
+    "desc": "Unleash the Dragon's Power. The target takes 150 damage"
+  },
+  "Golden-gun": {
+    "price": 9800,
+    "amount": 1799,
+    "icon": "https://cdn.discordapp.com/emojis/723942321145774112.png",
+    "desc": "Discharge bullets at the target, taking 100 points of damage"
+  },
+  "Destruction-gun": {
+    "price": 14500,
+    "amount": 1797,
+    "icon": "https://cdn.discordapp.com/emojis/1038236894070317056.png",
+    "desc": "Empty bullets into the target, taking 200 points of damage"
+  }
+}
